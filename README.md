@@ -24,7 +24,8 @@ Must = |
 
 1 or more = <
 
-Example:
+Example: 
 Each employee may/must have 1 to 1/1 or more function?
 
+Solution:
 Each employee must have 1 or more function!
