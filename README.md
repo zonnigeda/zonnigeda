@@ -8,13 +8,13 @@
 
 5. Complete the diagram.
 
-///////////
+
 Each entity1 may/must relationname 1 to 1/1or more entity2
 
 may is optional, must is low prio
 
 1 to 1/1 or more= maximum worth
-///////////
+
 
 May = 0
 
@@ -24,7 +24,7 @@ Must = |
 
 1 or more = <
 
-///////////
+Example:
 Each employee may/must have 1 to 1/1 or more function?
 
 Each employee must have 1 or more function!
